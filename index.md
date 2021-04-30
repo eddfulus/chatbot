@@ -3,6 +3,14 @@
 
 #### Teesstrn
 
+<span class="fs-8">
+[Link button](http://example.com/){: .btn }
+</span>
+
+<span class="fs-3">
+[Tiny ass button](http://example.com/){: .btn }
+</span>
+
 <button type="button" name="button" class="btn">Button element</button>
 
 [Link button](http://example.com/){: .btn .btn-purple }
