@@ -3,6 +3,7 @@
 
 #### Teesstrn
 
+<button type="button" name="button" class="btn">Button element</button>
 
 [Link button](http://example.com/){: .btn .btn-purple }
 
