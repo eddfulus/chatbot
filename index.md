@@ -3,8 +3,7 @@
 
 #### Teesstrn
 
-[button url="http://www.thestar.com"]
-
+[Vaksin](<a href="/test">OpenHIS</a>){: .btn .btn-purple }
 Lorem ipsum dolor sit amet.
 <h2 id="openhis"><a href="/test">OpenHIS</a></h2>
 
