@@ -5,7 +5,7 @@
 
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+[Click me](http://www.thestar.com){: .btn}
 
 HAHAHA
 
