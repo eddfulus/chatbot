@@ -5,7 +5,7 @@
 
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.thestar.com){: .btn}
+[Click me](https://github.com/eddfulus/eddfulus.github.io/blob/gh-pages/test.md){: .btn}
 
 HAHAHA
 
