@@ -3,6 +3,7 @@
 
 #### Teesstrn
 
+[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
 <span class="fs-8">
 [Link button](http://example.com/){: .btn }
 </span>
