@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet.
 
 HAHAHA
 
-<button name="button" onclick="http://www.thestar.com.my">Click me</button>
+<button name="button" onclick=(http://www.thestar.com.my)>Click me</button>
 
 You can use the [editor on GitHub](https://github.com/eddfulus/chatbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
