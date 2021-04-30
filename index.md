@@ -3,6 +3,8 @@
 
 #### Teesstrn
 
+[button url="http://www.thestar.com"]
+
 Lorem ipsum dolor sit amet.
 <h2 id="openhis"><a href="/test">OpenHIS</a></h2>
 
