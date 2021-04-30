@@ -3,20 +3,13 @@
 
 #### Teesstrn
 
-[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
-<span class="fs-8">
-[Link button](http://example.com/){: .btn }
-</span>
 
-<span class="fs-3">
-[Tiny ass button](http://example.com/){: .btn }
-</span>
 
-<button type="button" name="button" class="btn">Button element</button>
+<button type="vaksin" name="button" class="btn">Button element</button>
 
-[Link button](http://example.com/){: .btn .btn-purple }
 
-[Vaksin](<a href="/test">OpenHIS</a>){: .btn .btn-purple }
+
+[Vaksin](<a href="/test">Vaksin Covid</a>){: .btn .btn-purple }
 Lorem ipsum dolor sit amet.
 <h2 id="openhis"><a href="/test">OpenHIS</a></h2>
 
