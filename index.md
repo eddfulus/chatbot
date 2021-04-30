@@ -4,6 +4,7 @@
 #### Teesstrn
 
 Lorem ipsum dolor sit amet.
+<h2 id="openhis"><a href="/test">OpenHIS</a></h2>
 
 [Click me](https://github.com/eddfulus/eddfulus.github.io/blob/gh-pages/test.md){: .btn}
 
