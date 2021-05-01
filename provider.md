@@ -3,6 +3,8 @@ Please state your choice
 
 [Registration as PPV GP Information](https://vaksincovid.protecthealth.com.my/eng) 
 
+[Query on My Application Status](/applicationstatus) 
+
 [Vaccine Information](http://covid-19.moh.gov.my/vaksin-covid-19) 
 
 [How To Register for Vaccination](https://www.vaksincovid.gov.my/en/guide/) 
