@@ -4,4 +4,6 @@ Please state your choice
 
 <a href="/https://www.vaksincovid.gov.my/en/guide/">How To Register for Vaccination</a>{: .btn}
 
+[How To Register for Vaccination 2](https://www.vaksincovid.gov.my/en/guide/) 
+
 <a href="/start">Main Page</a>{: .btn}
