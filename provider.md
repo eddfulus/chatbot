@@ -1,10 +1,10 @@
 Please state your choice
 
-<a href="/https://vaksincovid.protecthealth.com.my/eng">Registration as PPV GP</a>{: .btn}
 
-<a href="/https://vaksincovid.protecthealth.com.my/eng">PPV GP Information</a>{: .btn}
+[Registration as PPV GP Information](https://vaksincovid.protecthealth.com.my/eng) 
 
-<a href="/http://covid-19.moh.gov.my/vaksin-covid-19">Vaccine Information</a>{: .btn}
+[Vaccine Information](http://covid-19.moh.gov.my/vaksin-covid-19) 
 
+[How To Register for Vaccination](https://www.vaksincovid.gov.my/en/guide/) 
 
-<a href="/start">Main Page</a>{: .btn}
+[Main Page](/start) 
