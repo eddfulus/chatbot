@@ -9,9 +9,9 @@
 
 
 
-[Vaksin](<a href="/test">Vaksin Covid</a>){: .btn .btn-purple }
+[Vaksin](<a href="/start">Vaksin Covid</a>){: .btn .btn-purple }
 Lorem ipsum dolor sit amet.
-<h2 id="openhis"><a href="/test">OpenHIS</a></h2>
+<h2 id="vaksin covid"><a href="/start">OpenHIS</a></h2>
 
 [Click me](https://github.com/eddfulus/eddfulus.github.io/blob/gh-pages/test.md){: .btn}
 
